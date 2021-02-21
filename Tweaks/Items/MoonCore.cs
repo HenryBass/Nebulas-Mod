@@ -142,17 +142,14 @@ namespace Tweaks.Items
 			recipe.AddRecipe();
 
 			recipe = new ModRecipe(mod);
-			recipe.AddIngredient(ItemID.EnchantedSword, 1);
-			recipe.AddTile(TileID.Anvils);
-			recipe.SetResult(ItemID.FragmentNebula, 5);
+			recipe.AddIngredient(ItemID.IronskinPotion, 2);
+			recipe.AddIngredient(ItemID.GoldOre, 2);
+			recipe.AddTile(TileID.Bottles);
+			recipe.SetResult(ModContent.ItemType<PlatinumSkinPotion>(), 1);
 			recipe.AddRecipe();
 		}
 	}
 }
-
-
-
-
 
 
 
