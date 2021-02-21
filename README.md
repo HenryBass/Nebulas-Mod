@@ -1,4 +1,4 @@
-# Terraria-Lunar-Heart-Mod
+# LunarHeart
 
 The Lunar Heart Mod is a small expansion to the Terraria base game. It adds:
 
