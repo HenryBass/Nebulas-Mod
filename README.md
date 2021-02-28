@@ -1,5 +1,5 @@
 # Nebulas
-* Thanks for 2k downloads *
+* Thanks for 3k downloads *
 
 The Nebulas Mod (Formerly Lunar Heart) is a medium sized expansion to the Terraria base game. It adds:
 
