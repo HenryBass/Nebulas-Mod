@@ -1,4 +1,0 @@
-displayName = Nebulas Mod
-author = Henry_21
-version = 0.0.3.4
-homepage = https://forums.terraria.org/index.php?threads/the-nebulas-mod.103570/
