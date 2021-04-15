@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "drpizd7eZ/gDw+aKdNZ5KRSX0oCm7D6V1DHOAdU+BS2UrLRaSKryJZgKV+UfM/phyPFmQs+MR/dVP0U45eE2/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\treeb\\OneDrive\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Nebulas\\Nebulas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\treeb\\.nuget\\packages\\tmodloader.codeassist\\0.1.2\\tmodloader.codeassist.0.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
